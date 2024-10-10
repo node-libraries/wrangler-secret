@@ -28,5 +28,5 @@ def = "456"
 Internal calls to wrangler are processed sequentially.
 
 ```sh
-npm run wrangler-secret .env.environment
+npx wrangler-secret .env.environment
 ```
